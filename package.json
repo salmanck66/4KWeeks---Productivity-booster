@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://yourusername.github.io/4weeks",
+  "homepage": "https://YOUR_USERNAME.github.io/4weeks",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
